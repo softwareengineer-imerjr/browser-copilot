@@ -78,6 +78,14 @@ To build the final distribution of the extension, execute the following command:
 devbox run build
 ```
 
+## 📚 Documentação de Desenvolvimento
+
+Para uma compreensão completa do fluxo de desenvolvimento deste repositório:
+
+* 📖 **[Fluxo de Desenvolvimento Completo](./FLUXO_DE_DESENVOLVIMENTO.md)** - Guia detalhado com todos os processos de desenvolvimento
+* ⚡ **[Resumo de Desenvolvimento](./RESUMO_DESENVOLVIMENTO.md)** - Visão geral rápida e comandos essenciais  
+* 🏗️ **[Arquitetura do Sistema](./ARQUITETURA.md)** - Diagramas e explicação da arquitetura
+
 ## Contributing
 
 We welcome all kinds of contributions!
